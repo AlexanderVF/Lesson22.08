@@ -1,0 +1,15 @@
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\bin\Debug\net6.0\HW_02t.exe
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\bin\Debug\net6.0\HW_02t.deps.json
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\bin\Debug\net6.0\HW_02t.runtimeconfig.json
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\bin\Debug\net6.0\HW_02t.dll
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\bin\Debug\net6.0\HW_02t.pdb
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.csproj.AssemblyReference.cache
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.GeneratedMSBuildEditorConfig.editorconfig
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.AssemblyInfoInputs.cache
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.AssemblyInfo.cs
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.csproj.CoreCompileInputs.cache
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.dll
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\refint\HW_02t.dll
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.pdb
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\HW_02t.genruntimeconfig.cache
+K:\Маркетинг\Обучение\HW23.08\HW_1\HW_02t\obj\Debug\net6.0\ref\HW_02t.dll
