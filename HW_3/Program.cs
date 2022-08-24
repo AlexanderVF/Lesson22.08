@@ -10,6 +10,11 @@ int f = 5;
 int g = 6;
 int j = 7;
 
+if (a > 7)
+{
+   Console.WriteLine("Вы ввели неверное число, введите число от 1 до 7"); 
+}
+
 if (a == b)
 {
     Console.WriteLine(a + " -> Нет, рабочий день");
